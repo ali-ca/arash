@@ -1,0 +1,16 @@
+person2={
+        "temp_lags": [-0.96,-0.82,-0.89,-21.99],
+        "pw_lags": [ 73.788,59.196,73.248,74.496],
+        "capacity_lags": [0.75, 0.75, 0.75, 0.75],
+        "season_lags": [1,1,1,1],
+        "setpoint1_lags": [-22, -22, -22, -22],
+        "setpoint1_heads": [-23, -23, -23, -23,-23,-23],
+        "setpoint2_lags": [-21, -21,-21, -21],
+        "setpoint2_heads": [0, 0, 0, 0,0,0],
+        "capacity_heads": [0.75,0.75,0.75,0.75,0.75,0.75],
+        "season_heads": [1,1,1,1,1,1],
+        "current_power":74.208,
+        "current_temp":-22,
+        "setpoint1": -23,
+        "setpoint2":-23
+                 }
